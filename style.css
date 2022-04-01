@@ -89,6 +89,7 @@ body {
   body {
     height: 100vh;
     font-size: 14px;
+    overflow: hidden;
   }
   .card {
     flex-direction: column;
